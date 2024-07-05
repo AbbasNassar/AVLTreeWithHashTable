@@ -1,0 +1,17 @@
+/* This function can be called only if K2 has a left child */
+/* Perform a rotate between a node (K2) and its left child */
+/* Update heightOfTrees, then return new root */
+--------------------------------------------------------------
+/* This function can be called only if K1 has a right child */
+/* Perform a rotate between a node (K1) and its right child */
+/* Update heightOfTrees, then return new root */
+--------------------------------------------------------------
+/* This function can be called only if K3 has a left */
+/* child and K3's left child has a right child */
+/* Do the left-right double rotation */
+/* Update heightOfTrees, then return new root */
+--------------------------------------------------------------
+/* This function can be called only if K1 has a right */
+/* child and K1's right child has a left child */
+/* Do the right-left double rotation */
+/* Update heightOfTrees, then return new root */
