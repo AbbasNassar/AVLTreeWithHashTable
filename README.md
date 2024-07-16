@@ -10,7 +10,7 @@ This project demonstrates the implementation of an AVL tree and a hash table in 
 * Re-hashing is not implemented in this code.
 
 ## Code Structure
-`**main.c**`
+**`main.c`**
 This file contains the main function and the menu-driven interface for interacting with the AVL tree and hash table.
 ### AVL Tree Functions
 * `makeEmpty`: Frees the memory allocated for the AVL tree.
